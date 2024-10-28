@@ -116,6 +116,11 @@ hash = "d970a5abbfa8764a631e3f0a3ee5be4cb7434ed340c50ea4bf563b6a2f6a633d"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "c9adf5e80e1370d09967995e5182814d6cdabc81bfaea8d3500f499902c07da1"
+metafile = true
+
+[[files]]
 file = "mods/item-borders.pw.toml"
 hash = "7038534f6b316180232e4171b67d0b96ed9270c0d95f452e5300911193fed922"
 metafile = true
