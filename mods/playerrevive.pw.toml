@@ -1,0 +1,13 @@
+filename = 'PlayerRevive_v2.0.0-pre04_mc1.16.5.jar'
+name = 'PlayerRevive'
+side = 'both'
+
+[download]
+hash = 'dce68b51cc811e30b7b826ee41769864e4ecd5ca'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3419960
+project-id = 266890

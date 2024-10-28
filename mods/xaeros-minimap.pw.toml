@@ -1,0 +1,13 @@
+filename = 'Xaeros_Minimap_24.5.0_Forge_1.16.5.jar'
+name = "Xaero's Minimap"
+side = 'client'
+
+[download]
+hash = 'b6ddcc92235c79f234aedf5043666677f4f7f1ecc053bb90d985c8daf2a9118f2b709b35a9c3a8c237914bca47006ee03104b05ca2b7a02ad47535d8419c7b5b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1bokaNcj/versions/KDmeZR3Y/Xaeros_Minimap_24.5.0_Forge_1.16.5.jar'
+
+[update.modrinth]
+mod-id = '1bokaNcj'
+version = 'KDmeZR3Y'

@@ -1,0 +1,13 @@
+filename = 'lightspeed-1.16.5-1.0.5.jar'
+name = 'Lightspeed'
+side = 'client'
+
+[download]
+hash = '7051849f6163c4dffc31b66f74217c90a35f5a247b6294932398e0266b72d92fdb6eccecc2862611fb5561fe27f5ec6f9c569f19814978f4b292caa070d60c8d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/US93mifm/versions/4LtwayMk/lightspeed-1.16.5-1.0.5.jar'
+
+[update.modrinth]
+mod-id = 'US93mifm'
+version = '4LtwayMk'

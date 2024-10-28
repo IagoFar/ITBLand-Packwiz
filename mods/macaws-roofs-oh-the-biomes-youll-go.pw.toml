@@ -1,0 +1,13 @@
+filename = 'macawsroofsbyg-1.16.5-1.8.jar'
+name = "Macaw's Roofs - Oh The Biomes You'll Go"
+side = 'both'
+
+[download]
+hash = '8b2eba7beb84bf318919334c4337788e9ccdc8cc641a3736085f1cbcf5bcdc52978fd0d1ede568a2645157463672eff6cf22d14fd904a6e7c0182c990f28d64f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/smN4zlYE/versions/3XbFftPM/macawsroofsbyg-1.16.5-1.8.jar'
+
+[update.modrinth]
+mod-id = 'smN4zlYE'
+version = '3XbFftPM'

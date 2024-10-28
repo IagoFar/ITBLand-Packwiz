@@ -1,0 +1,13 @@
+filename = 'corpse-1.16.5-1.0.7.jar'
+name = 'Corpse'
+side = 'both'
+
+[download]
+hash = 'b61bdd08fb7f254380b0fb7c70d6bc0d17414aca'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3832960
+project-id = 316582

@@ -1,0 +1,13 @@
+filename = 'mcwfencesbyg-1.16.5-1.4.jar'
+name = "Macaw's Fences - Oh The Biomes You'll Go"
+side = 'both'
+
+[download]
+hash = '0201bbbe15fd30bab3230461c87da90d033df94a0cf66d4fad37081045941b94fedcf52836c729a9504bba2507699c557495092d16bd676217d93c62a6349b8d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YwnqoRu0/versions/H9xuwzr6/mcwfencesbyg-1.16.5-1.4.jar'
+
+[update.modrinth]
+mod-id = 'YwnqoRu0'
+version = 'H9xuwzr6'

@@ -1,0 +1,13 @@
+filename = 'PrettyPipes-1.9.8.jar'
+name = 'Pretty Pipes'
+side = 'both'
+
+[download]
+hash = '9959cda94c5feb910ddd0f7d8102137ddad3e76ea50e5a75c63bb0bb055a89069cf44c37cc98a53868da52976b668b7ea96a252c1158c62b6610c5c415d293db'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XExdLWCQ/versions/k34E6ifa/PrettyPipes-1.9.8.jar'
+
+[update.modrinth]
+mod-id = 'XExdLWCQ'
+version = 'k34E6ifa'

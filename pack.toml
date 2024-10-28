@@ -1,0 +1,13 @@
+name = "ITB Land"
+author = "X341"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2b7c09813a874c0cf0398d0eafdc5b3430b0ae1eb71ae1f23e16d727edb75171"
+
+[versions]
+forge = "36.2.42"
+minecraft = "1.16.5"

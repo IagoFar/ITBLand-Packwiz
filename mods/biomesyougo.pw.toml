@@ -1,0 +1,13 @@
+filename = 'byg-1.1.6.jar'
+name = "Oh The Biomes You'll Go"
+side = 'both'
+
+[download]
+hash = 'e930b5dab98ea9caabd3a09eb33b2b06e38ef2c9e1098bca5649a009258009bd4c5d1449690b253f4f501175b7b4d08cbe28f59d3de7c2273b63788d2dbee155'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uE1WpIAk/versions/1.1.6/byg-1.1.6.jar'
+
+[update.modrinth]
+mod-id = 'uE1WpIAk'
+version = 'QWBUCRvD'

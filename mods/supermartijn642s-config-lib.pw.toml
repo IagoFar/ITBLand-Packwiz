@@ -1,0 +1,13 @@
+filename = 'supermartijn642configlib-1.1.8-forge-mc1.16.jar'
+name = "SuperMartijn642's Config Lib"
+side = 'both'
+
+[download]
+hash = 'bdb9ea7d8dd2f06e0e3a6adacea523e74d1f01e43edf1e9bb0125d3ebaedaeca8e03cbbe1ef0119509d6288c4efab71ca56ef0c7a49dbdbab3a1b7a5193af17f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LN9BxssP/versions/p1NxjNgs/supermartijn642configlib-1.1.8-forge-mc1.16.jar'
+
+[update.modrinth]
+mod-id = 'LN9BxssP'
+version = 'p1NxjNgs'

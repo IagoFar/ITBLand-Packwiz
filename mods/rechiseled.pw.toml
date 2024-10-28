@@ -1,0 +1,13 @@
+filename = 'rechiseled-1.1.6-forge-mc1.16.jar'
+name = 'Rechiseled'
+side = 'both'
+
+[download]
+hash = '73320664aae114528765d5d71d19f71f9014dc454c6a35a2ac629d98d65fa22c0f2eddfdc486557592c009cebee09ec40c0fe1ee69f60d4ea4c12f6282620c27'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/B0g2vT6l/versions/tDX6MDe5/rechiseled-1.1.6-forge-mc1.16.jar'
+
+[update.modrinth]
+mod-id = 'B0g2vT6l'
+version = 'tDX6MDe5'

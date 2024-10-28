@@ -1,0 +1,13 @@
+filename = 'sit-1.16.5-v1.3.2.jar'
+name = 'Sit'
+side = 'both'
+
+[download]
+hash = 'ce2c562e4a30f2eb6096296f63c7280e1a2d7eb099620e393fce0f55f0e62ef0be6b2ade231fff88ff81d227cb3bf2712f82675c5b70da4dd386a09909cf2aa9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VKXzIykF/versions/TIZ1pXGN/sit-1.16.5-v1.3.2.jar'
+
+[update.modrinth]
+mod-id = 'VKXzIykF'
+version = 'TIZ1pXGN'

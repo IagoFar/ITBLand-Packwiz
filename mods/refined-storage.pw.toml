@@ -1,0 +1,13 @@
+filename = 'refinedstorage-1.9.18.jar'
+name = 'Refined Storage'
+side = 'both'
+
+[download]
+hash = '6cbcefe27f0f005527d165eae3623a20d8ac8cd19fc3148f7688c81f65826a2423da44e1ef61b9681194908fb42036d628dfdac21ac7602034ea707defd8ba15'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KDvYkUg3/versions/ubJGKwUA/refinedstorage-1.9.18.jar'
+
+[update.modrinth]
+mod-id = 'KDvYkUg3'
+version = 'ubJGKwUA'

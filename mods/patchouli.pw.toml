@@ -1,0 +1,13 @@
+filename = 'Patchouli-1.16.4-53.3.jar'
+name = 'Patchouli'
+side = 'both'
+
+[download]
+hash = '761c1db33d3d81b077c5db9fadda57d213bd4b43e8e0a2678b3a8294ba0fbe5f45cef507c7d4b79d2dd165253925abddf837e7df2ff553d05987b97c4014e7bf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nU0bVIaL/versions/1.16.4-53.3-forge/Patchouli-1.16.4-53.3.jar'
+
+[update.modrinth]
+mod-id = 'nU0bVIaL'
+version = 'swxCEODj'
