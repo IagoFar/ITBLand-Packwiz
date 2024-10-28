@@ -286,11 +286,6 @@ hash = "aa3a98ae4c05096d7ee810bc3463c46a0f11b94bd3cb1f3da88f46eca76dac6b"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "3a11dde65411114d76e9f3b8aeeb971da82d464248ad0b700f1b19c14df5d6b9"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "19e91c122eddff4532d0a11f3b7c714dcb25f6f447f7b3392d619183cd78a070"
 metafile = true
