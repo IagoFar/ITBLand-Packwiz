@@ -251,6 +251,11 @@ hash = "6f64d9aad18a4e8456fe9460f78945f29f90a5c60b182c0cc97cd9fc1a250330"
 metafile = true
 
 [[files]]
+file = "mods/obfuscate.pw.toml"
+hash = "0f17b3547f35c092a7bcfba6e4cdaeb12ea1b0b5828c660516bf3148ab44b7a2"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "7e806be83bbc7a988eb0308140aa6c1fa64f343d6c6eb3df870ff9a1db6296b0"
 metafile = true
@@ -303,11 +308,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "9d8149c0f8d20e287d71140e2e2baec22df8bfa225d5192cd9ffa18ddc50f745"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "5ffb10fbcea279590beabdaa6658dffb270e28d3187a12bf1d6401daa4d92e27"
 metafile = true
 
 [[files]]
