@@ -1,13 +1,13 @@
-filename = 'decocraft-3.0.0.4-beta-1.16.5 .jar'
-name = 'Decocraft'
-side = 'both'
+name = "Decocraft"
+filename = "decocraft-3.0.0.4-beta-1.16.5 .jar"
+side = "both"
 
 [download]
-hash = '1afd46d08143cfd555d17b47b39195cf6e9b56dcaed7f3a8de3e608e1db383f91dd0a26a363cd189d3cc03e4d3710537dd3d66bec70c6ee17bf5779e652bc088'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/IZJSgKZe/versions/P26BhCCq/decocraft-3.0.0.4-beta-1.16.5 .jar'
+url = "https://cdn.modrinth.com/data/IZJSgKZe/versions/P26BhCCq/decocraft-3.0.0.4-beta-1.16.5%20.jar"
+hash-format = "sha512"
+hash = "1afd46d08143cfd555d17b47b39195cf6e9b56dcaed7f3a8de3e608e1db383f91dd0a26a363cd189d3cc03e4d3710537dd3d66bec70c6ee17bf5779e652bc088"
 
+[update]
 [update.modrinth]
-mod-id = 'IZJSgKZe'
-version = 'P26BhCCq'
+mod-id = "IZJSgKZe"
+version = "P26BhCCq"

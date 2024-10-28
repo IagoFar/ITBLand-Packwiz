@@ -1,13 +1,13 @@
-filename = 'memoryleakfix-forge-pre1.17-1.1.5.jar'
-name = 'Memory Leak Fix'
-side = 'both'
+name = "Memory Leak Fix"
+filename = "memoryleakfix-forge-pre1.17-1.1.5.jar"
+side = "both"
 
 [download]
-hash = 'e6dbbe9f835f33d138ac252d92036dd66bfdc702b08bcca5e390deafbb485c37d3ca60b1da3a58d0bf24c890d2cc7e0445061a28f993d130113d9f0ed3b3c078'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/NRjRiSSD/versions/xYL9nIiR/memoryleakfix-forge-pre1.17-1.1.5.jar'
+url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/xYL9nIiR/memoryleakfix-forge-pre1.17-1.1.5.jar"
+hash-format = "sha512"
+hash = "e6dbbe9f835f33d138ac252d92036dd66bfdc702b08bcca5e390deafbb485c37d3ca60b1da3a58d0bf24c890d2cc7e0445061a28f993d130113d9f0ed3b3c078"
 
+[update]
 [update.modrinth]
-mod-id = 'NRjRiSSD'
-version = 'xYL9nIiR'
+mod-id = "NRjRiSSD"
+version = "xYL9nIiR"

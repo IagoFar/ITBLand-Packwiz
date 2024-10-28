@@ -1,13 +1,13 @@
-filename = 'oculus-mc1.16.5-1.4.8.jar'
-name = 'Oculus'
-side = 'client'
+name = "Oculus"
+filename = "oculus-mc1.16.5-1.4.8.jar"
+side = "client"
 
 [download]
-hash = '4374c4134fd4a7c089683ad643792e8fc84b24fd4a0869efe065705d75f6bade74be028442802aff7431f63b69fd9684969cea053c57c8d9fa1696dc4e2ef722'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/GchcoXML/versions/SPCLqJn1/oculus-mc1.16.5-1.4.8.jar'
+url = "https://cdn.modrinth.com/data/GchcoXML/versions/SPCLqJn1/oculus-mc1.16.5-1.4.8.jar"
+hash-format = "sha512"
+hash = "4374c4134fd4a7c089683ad643792e8fc84b24fd4a0869efe065705d75f6bade74be028442802aff7431f63b69fd9684969cea053c57c8d9fa1696dc4e2ef722"
 
+[update]
 [update.modrinth]
-mod-id = 'GchcoXML'
-version = 'SPCLqJn1'
+mod-id = "GchcoXML"
+version = "SPCLqJn1"

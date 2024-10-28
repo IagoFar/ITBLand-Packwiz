@@ -1,13 +1,13 @@
-filename = 'watut-forge-1.16.5-1.0.14.jar'
-name = 'What Are They Up To (Watut)'
-side = 'both'
+name = "What Are They Up To (Watut)"
+filename = "watut-forge-1.16.5-1.0.14.jar"
+side = "both"
 
 [download]
-hash = '868e0bc9d88d5009e90669111cc2e2658bf7f272363e4726526f865ff45a1cf28f5e1d199cf90468d53c4cb78e7b692b67a1e7bd7317913eb4219da15f4dcc00'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/AtB5mHky/versions/NzB9gYxU/watut-forge-1.16.5-1.0.14.jar'
+url = "https://cdn.modrinth.com/data/AtB5mHky/versions/NzB9gYxU/watut-forge-1.16.5-1.0.14.jar"
+hash-format = "sha512"
+hash = "868e0bc9d88d5009e90669111cc2e2658bf7f272363e4726526f865ff45a1cf28f5e1d199cf90468d53c4cb78e7b692b67a1e7bd7317913eb4219da15f4dcc00"
 
+[update]
 [update.modrinth]
-mod-id = 'AtB5mHky'
-version = 'NzB9gYxU'
+mod-id = "AtB5mHky"
+version = "NzB9gYxU"

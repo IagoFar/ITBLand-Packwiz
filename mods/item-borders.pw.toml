@@ -1,13 +1,13 @@
-filename = 'ItemBorders-1.16.5-1.1.6.jar'
-name = 'Item Borders'
-side = 'client'
+name = "Item Borders"
+filename = "ItemBorders-1.16.5-1.1.6.jar"
+side = "client"
 
 [download]
-hash = '246ba64ce02095870eceaa7813fb47ccf11cbbb1b654f824020bdcca302f3c19ccbf04bf28fa0c71228f70f12e1dc2c19e954957ad18628e36f733945b7e1e66'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/b1fMg6sH/versions/oobRHDf1/ItemBorders-1.16.5-1.1.6.jar'
+url = "https://cdn.modrinth.com/data/b1fMg6sH/versions/oobRHDf1/ItemBorders-1.16.5-1.1.6.jar"
+hash-format = "sha512"
+hash = "246ba64ce02095870eceaa7813fb47ccf11cbbb1b654f824020bdcca302f3c19ccbf04bf28fa0c71228f70f12e1dc2c19e954957ad18628e36f733945b7e1e66"
 
+[update]
 [update.modrinth]
-mod-id = 'b1fMg6sH'
-version = 'oobRHDf1'
+mod-id = "b1fMg6sH"
+version = "oobRHDf1"

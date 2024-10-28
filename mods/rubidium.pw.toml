@@ -1,13 +1,13 @@
-filename = 'rubidium-mc1.16.5-0.2.13.jar'
-name = 'Rubidium'
-side = 'client'
+name = "Rubidium"
+filename = "rubidium-mc1.16.5-0.2.13.jar"
+side = "client"
 
 [download]
-hash = '7ac6139c2836380ed15fdca4adb4229b47b95653c5f0c8066b5cd204268e6c47d17c82998727246f7e4e06630213b47cdd2093fddac6274e3417ae0b285f93fe'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/4ZqxOvjD/versions/YDAuLUY8/rubidium-mc1.16.5-0.2.13.jar'
+url = "https://cdn.modrinth.com/data/4ZqxOvjD/versions/YDAuLUY8/rubidium-mc1.16.5-0.2.13.jar"
+hash-format = "sha512"
+hash = "7ac6139c2836380ed15fdca4adb4229b47b95653c5f0c8066b5cd204268e6c47d17c82998727246f7e4e06630213b47cdd2093fddac6274e3417ae0b285f93fe"
 
+[update]
 [update.modrinth]
-mod-id = '4ZqxOvjD'
-version = 'YDAuLUY8'
+mod-id = "4ZqxOvjD"
+version = "YDAuLUY8"

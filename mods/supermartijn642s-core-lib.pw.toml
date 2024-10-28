@@ -1,13 +1,13 @@
-filename = 'supermartijn642corelib-1.1.17a-forge-mc1.16.jar'
 name = "SuperMartijn642's Core Lib"
-side = 'both'
+filename = "supermartijn642corelib-1.1.17a-forge-mc1.16.jar"
+side = "both"
 
 [download]
-hash = 'de05b8fc44f3a2ad15e0bf4a13c7b8bc9eb97bd48ae3e008f7904b6a2b2bee7bdf1f1dc9ca4fe9d15aee8d1ceb2624448ac3ac458af3b80f88dbf120abcbc143'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/rOUBggPv/versions/hlzlZINR/supermartijn642corelib-1.1.17a-forge-mc1.16.jar'
+url = "https://cdn.modrinth.com/data/rOUBggPv/versions/hlzlZINR/supermartijn642corelib-1.1.17a-forge-mc1.16.jar"
+hash-format = "sha512"
+hash = "de05b8fc44f3a2ad15e0bf4a13c7b8bc9eb97bd48ae3e008f7904b6a2b2bee7bdf1f1dc9ca4fe9d15aee8d1ceb2624448ac3ac458af3b80f88dbf120abcbc143"
 
+[update]
 [update.modrinth]
-mod-id = 'rOUBggPv'
-version = 'hlzlZINR'
+mod-id = "rOUBggPv"
+version = "hlzlZINR"

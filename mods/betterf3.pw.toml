@@ -1,13 +1,13 @@
-filename = 'BetterF3-1.5.0-Forge-1.16.5.jar'
-name = 'BetterF3'
-side = 'client'
+name = "BetterF3"
+filename = "BetterF3-1.5.0-Forge-1.16.5.jar"
+side = "client"
 
 [download]
-hash = '8bc55dffd5ed8569a233a884298152515d64a491380bef07254e55be50dad3ed2209152dc013818f9c15bfbd25761abc72390f017c0be8f84bca91d9135d4296'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/8shC1gFX/versions/k6xmp8cg/BetterF3-1.5.0-Forge-1.16.5.jar'
+url = "https://cdn.modrinth.com/data/8shC1gFX/versions/k6xmp8cg/BetterF3-1.5.0-Forge-1.16.5.jar"
+hash-format = "sha512"
+hash = "8bc55dffd5ed8569a233a884298152515d64a491380bef07254e55be50dad3ed2209152dc013818f9c15bfbd25761abc72390f017c0be8f84bca91d9135d4296"
 
+[update]
 [update.modrinth]
-mod-id = '8shC1gFX'
-version = 'k6xmp8cg'
+mod-id = "8shC1gFX"
+version = "k6xmp8cg"

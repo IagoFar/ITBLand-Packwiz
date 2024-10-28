@@ -1,0 +1,13 @@
+name = "Fusion"
+filename = "Fusion-1.16.5-2.7.4.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8K8WPv8S/versions/pTfuWj3w/Fusion-1.16.5-2.7.4.5.jar"
+hash-format = "sha512"
+hash = "a0b3f250cec834e97e653d11e4d83267a54fb38e0890f54845d1cc9956330633b8dee093b494d2c1e1c8ec6fcdf64de55e5df370f6f45e539616e9a09e8c476b"
+
+[update]
+[update.modrinth]
+mod-id = "8K8WPv8S"
+version = "pTfuWj3w"

@@ -1,13 +1,13 @@
-filename = 'citadel-1.8.1-1.16.5.jar'
-name = 'Citadel'
-side = 'both'
+name = "Citadel"
+filename = "citadel-1.8.1-1.16.5.jar"
+side = "both"
 
 [download]
-hash = '6e158ecf8181c14de68df35aa81042f45b44c247316d71eb0bac66e0dfbda47f0d6c03286f1e4be63b5955c5430bc0daf9f6ab7d0d105cd9fd3c41315000a3e0'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/jJfV67b1/versions/AEa5lIzx/citadel-1.8.1-1.16.5.jar'
+url = "https://cdn.modrinth.com/data/jJfV67b1/versions/AEa5lIzx/citadel-1.8.1-1.16.5.jar"
+hash-format = "sha512"
+hash = "6e158ecf8181c14de68df35aa81042f45b44c247316d71eb0bac66e0dfbda47f0d6c03286f1e4be63b5955c5430bc0daf9f6ab7d0d105cd9fd3c41315000a3e0"
 
+[update]
 [update.modrinth]
-mod-id = 'jJfV67b1'
-version = 'AEa5lIzx'
+mod-id = "jJfV67b1"
+version = "AEa5lIzx"
