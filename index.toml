@@ -186,21 +186,6 @@ hash = "a7ddca88e7dbb4e02f84a0e948ecce85cf62409cb380e83958234fb6d5f817e9"
 metafile = true
 
 [[files]]
-file = "mods/macaws-furniture.pw.toml"
-hash = "3176b18a58c6aa392c6cf5671d3dbf139332e87a2885efe38e2883c3f3328ef7"
-metafile = true
-
-[[files]]
-file = "mods/macaws-furnitures-biomes-o-plenty.pw.toml"
-hash = "e9ec7229fedd32fac224f553f5a3cad524c6efd330dc310ab935ffc3923ce577"
-metafile = true
-
-[[files]]
-file = "mods/macaws-furnitures-oh-the-biomes-youll-go.pw.toml"
-hash = "bec30596f8d31d1e3e0809ff388803b3dfd8bfe5a3240de7f4633513009c79df"
-metafile = true
-
-[[files]]
 file = "mods/macaws-holidays.pw.toml"
 hash = "586c6dfb209d796eff90199183aa65d1b1b2cbac718dcc73266faa033afc24be"
 metafile = true
