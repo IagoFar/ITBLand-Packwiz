@@ -1,0 +1,13 @@
+name = "SecurityCraft"
+filename = "[1.16.5] SecurityCraft v1.9.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v8jzRtAt/versions/GdWIkaYD/%5B1.16.5%5D%20SecurityCraft%20v1.9.11.jar"
+hash-format = "sha1"
+hash = "0944ef6678050d3d3d8bf242c3a537a3c3e5e378"
+
+[update]
+[update.modrinth]
+mod-id = "v8jzRtAt"
+version = "GdWIkaYD"
