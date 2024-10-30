@@ -1,0 +1,13 @@
+name = "MTR London Underground Addon"
+filename = "MTR-London-Underground-Addon-forge-2.2.1+1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jrAXj11W/versions/baPDAVi5/MTR-London-Underground-Addon-forge-2.2.1%2B1.16.5.jar"
+hash-format = "sha1"
+hash = "8a6bf97660874efcab7106599ff8fcb54e774e5a"
+
+[update]
+[update.modrinth]
+mod-id = "jrAXj11W"
+version = "baPDAVi5"

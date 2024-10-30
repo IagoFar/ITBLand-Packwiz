@@ -136,6 +136,11 @@ hash = "407755a5f4b737f5d4d7a16536986290bb9a7703cc292e797b9dbcc5f7257aa8"
 metafile = true
 
 [[files]]
+file = "mods/jcm.pw.toml"
+hash = "ac93eea3f5660c684005391aebd4f50fce33e221208554f2c87e68b3c60b980c"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "d24a9d2bef75b56c85c2ec8a43f5a15e2a451e4b5d1016049b4592caac108c58"
 metafile = true
@@ -246,6 +251,11 @@ hash = "ed2a873a4d0b63d22a503cd07c8f9638c2b434461a5761a00041451167db0558"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "13429930a7519036188cff1bc59227fc34ce93d18f456ece89240e271780e9d3"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "cbad723763e2bd07f4c4fa35bcd7a0e8ed8ed4d96e94f8895be6445c79e8b66c"
 metafile = true
@@ -313,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "9d8149c0f8d20e287d71140e2e2baec22df8bfa225d5192cd9ffa18ddc50f745"
+metafile = true
+
+[[files]]
+file = "mods/the-tube.pw.toml"
+hash = "a6d4cdaf90fc7364e8e0331a65b585f13f4f977a83054707eced0389e3e000b7"
 metafile = true
 
 [[files]]

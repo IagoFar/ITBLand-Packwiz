@@ -1,0 +1,13 @@
+name = "Minecraft Transit Railway"
+filename = "MTR-forge-4.0.0-beta-11+1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XKPAmI6u/versions/C30glOzQ/MTR-forge-4.0.0-beta-11%2B1.16.5.jar"
+hash-format = "sha1"
+hash = "0ec4e19e93c6886287f895f2b48cf2041db0ae5f"
+
+[update]
+[update.modrinth]
+mod-id = "XKPAmI6u"
+version = "C30glOzQ"
