@@ -96,6 +96,11 @@ hash = "e8e7846c57999fa08857ce21618cca9b53eaf5a13a16500be5a4da0298d41d32"
 metafile = true
 
 [[files]]
+file = "mods/enablemultiplayermode.pw.toml"
+hash = "bf1ceac168a720a157577bd50788dda42a0b80960bb57d0e089b41a387d2d395"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "6d14b89e7cae4606adfaa797469eafa67c4d4a7d7f5ed64b5a1ffb2418f12bb1"
 metafile = true

@@ -1,0 +1,13 @@
+name = "EnableMultiPlayerMode"
+filename = "EnableMultiPlayerMode-1.0.0+Forge1.16.X.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oH7RCgH6/versions/6K28Qcwx/EnableMultiPlayerMode-1.0.0%2BForge1.16.X.jar"
+hash-format = "sha1"
+hash = "d04a8de3bd2226e98a34f19c3c5720db2a5822db"
+
+[update]
+[update.modrinth]
+mod-id = "oH7RCgH6"
+version = "6K28Qcwx"
