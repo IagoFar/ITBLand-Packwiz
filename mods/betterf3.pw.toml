@@ -12,5 +12,6 @@ hash = "8bc55dffd5ed8569a233a884298152515d64a491380bef07254e55be50dad3ed2209152d
 mod-id = "8shC1gFX"
 version = "k6xmp8cg"
 
-[options]
+[option]
 optional = true
+default = true
