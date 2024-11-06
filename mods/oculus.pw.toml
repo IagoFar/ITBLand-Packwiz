@@ -11,3 +11,6 @@ hash = "4374c4134fd4a7c089683ad643792e8fc84b24fd4a0869efe065705d75f6bade74be0284
 [update.modrinth]
 mod-id = "GchcoXML"
 version = "SPCLqJn1"
+
+[options]
+optional = true
