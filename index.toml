@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "b5d08396f33ff9df6483dac41c4d142c7e601ae9374a6675aec410831ad49e94"
+hash = "0bd0ff578e6223bdaad642c4943fdaa7f5d00f049b1eaf9634c8461b39e4184c"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "3912c786525b868e24114cd21034b12eb1632f2acab520d588c56aaa80cdefe6"
+hash = "a11f4021da66a9e7b1388e7cb448ef6472337ee12a9ca14dc412afb79b35e329"
 metafile = true
 
 [[files]]
@@ -76,6 +76,11 @@ hash = "7e1125c6d568b1c522c45871bccb49875cf30cb502f7efd70d686a8c560ce46d"
 metafile = true
 
 [[files]]
+file = "mods/create.pw.toml"
+hash = "cf6a575860bb0c9ce92aa33ccf881a6a57363914f3c83487e9743f063fef7a91"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "ab3b3b8545412e263eddf2dc5f77f9099b454f742dc1e21cab2dbed86514438b"
 metafile = true
@@ -87,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "f3058e489bf2662e1aded7df56f9ac0e2ebbe8d198d90bc8046154b2f5caa8f1"
+hash = "84aee3fab8a993adb59fbaf6ac420e6a6cda0f7f42cf6f449e4abe2a7a2ea15c"
 metafile = true
 
 [[files]]
@@ -116,6 +121,11 @@ hash = "5a6add1a0bb9a28083fce455877c855f7dcdeefbd599ff77ad181a31f0315ed0"
 metafile = true
 
 [[files]]
+file = "mods/flywheel.pw.toml"
+hash = "fdde87c3450325f15a72576976f305ca943953650b4c2b63e52186ad54c50307"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "837e66a438e6d524adbf461ebfbb8bd90a599ec1e2efcbad30aa664861a5b33f"
 metafile = true
@@ -132,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-borders.pw.toml"
-hash = "7038534f6b316180232e4171b67d0b96ed9270c0d95f452e5300911193fed922"
+hash = "444147909b3f766c10f1ea7b19b45527620a26294f5ab332a55398a650af7859"
 metafile = true
 
 [[files]]
@@ -267,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "c3b9dadd4044bd0cc92f11cb6fc4b2510a6439deb827d2db043e52cbe75303d1"
+hash = "01af94317edfc07da85986afb6a544250974bdd2539a408f7c659533498e731a"
 metafile = true
 
 [[files]]
@@ -282,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "7e806be83bbc7a988eb0308140aa6c1fa64f343d6c6eb3df870ff9a1db6296b0"
+hash = "407b1201f81e83ebb009ee58026b1bb073bb0db7d20b29a30248c835ba1e41e1"
 metafile = true
 
 [[files]]
@@ -343,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/timeless-and-classics-guns.pw.toml"
 hash = "6f0268b2313505defa1d8720e2a324610800a2fbb77d856b5fee47ae9a2513e5"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "9d503553b714d7b89fd44d0df12c5cf6d40fae44d890cb209d3724fe7d37c2b6"
 metafile = true
 
 [[files]]
