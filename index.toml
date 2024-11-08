@@ -16,6 +16,11 @@ hash = "082cbc1012b600b44a63d5a50a7af1cfbf88f118b814f64ee137421a290c7100"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "8dcfdd556df68cc338bdd9436a4e8face08a08cb114bffc5c66b43c71d80ddbc"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "0bd0ff578e6223bdaad642c4943fdaa7f5d00f049b1eaf9634c8461b39e4184c"
 metafile = true
@@ -123,6 +128,31 @@ metafile = true
 [[files]]
 file = "mods/flywheel.pw.toml"
 hash = "fdde87c3450325f15a72576976f305ca943953650b4c2b63e52186ad54c50307"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "8ce523776b15b06d6b626be20535469380633e57b2edf521c44d6c25b3cc8fbf"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "94475237f8117fcbc8ed5c7649c4095e8518a2de657340bc507520ffd0a4944b"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "d0a16178788e4654888451ccd63ab9162f615415878c4252016f47194fc03ce5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "ebbac41c71dd200a717260e4993be59c0d2ac6c9e9a784aa8c84a21cf27c9924"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "e0e30a4e0d7f65fb27c9d8b395c49d6e8dca35040e7572b8382b698e1a3d5def"
 metafile = true
 
 [[files]]
